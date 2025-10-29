@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ostertagi
 - 👀 I’m interested in mobile developpement
-- 🌱 I’m currently learning Love2D
-- 📫 How to reach me ostertagi@yahoo.fr
+- 🌱 I’m currently learning Defold
+- 📫 How to reach me ab.sebbai@gmail.com
 
 <!---
 ostertagi/ostertagi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
