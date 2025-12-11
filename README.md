@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ostertagi
-- 👀 I’m interested in mobile developpement
-- 🌱 I’m currently learning Defold
+- 👀 I’m interested in mobile & game developpement
+- 🌱 I’m currently working with Godot
 - 📫 How to reach me ab.sebbai@gmail.com
 
 <!---
