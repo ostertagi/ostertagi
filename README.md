@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ostertagi
-- 👀 I’m interested in mobile & game developpement
-- 🌱 I’m currently working with Godot
+- 👀 I’m interested in backend technologies
+- 🌱 I’m currently working with Rust, Go, Java
 - 📫 How to reach me ab.sebbai@gmail.com
 
 <!---
